@@ -1,0 +1,20 @@
+.header-container {
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../image/hero_2.jpg');
+    background-size: cover;
+    height: 740px;
+    padding: 0px;
+    margin: 0px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.header-text {
+    margin-top: 300px;
+    margin-right: 280px;
+    margin-left: 280px;
+    text-align: center;
+}
+
+ul {
+    color: white;
+}
